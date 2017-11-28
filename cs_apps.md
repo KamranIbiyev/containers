@@ -217,7 +217,9 @@ To create a secret with a certificate:
 To make an app publicly available to the internet, you must update your configuration file before you deploy the app into a cluster.
 {:shortdesc}
 
-Depending on whether you created a lite or a standard cluster, different ways exist to make your app accessible from the internet.
+
+
+ Depending on whether you created a lite or a standard cluster, different ways exist to make your app accessible from the internet.
 
 <dl>
 <dt><a href="#cs_apps_public_nodeport" target="_blank">NodePort service</a> (lite and standard clusters)</dt>
